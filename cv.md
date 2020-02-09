@@ -9,3 +9,11 @@
 **Codewars** [![image](https://www.codewars.com/users/vano-lukashuk/badges/small)](https://www.codewars.com/users/vano-lukashuk)  
 **Github:** [vano-lukashuk](https://github.com/vano-lukashuk)  
 **City:** Minsk, Belarus
+
+## Skills
+- **JavaScript** (JQuery, Vue.js, Angular, Ext JS)
+- **Node.JS** (npm, Webpack, Gulp, Grunt)
+- **HTML/HTML5** (Razor, Mustache, Handlebars)
+- **SVG**
+- **CSS** (SCSS, SASS, LESS)
+- **C#** (.NET Framework, .NET Core, Entity Framework)
