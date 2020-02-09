@@ -17,3 +17,10 @@
 - **SVG**
 - **CSS** (SCSS, SASS, LESS)
 - **C#** (.NET Framework, .NET Core, Entity Framework)
+
+## Professional Experience
+**Soft4Brokers Ltd** *(December 2016 - Present)*  
+**Position:** Senior Frontend Developer, Frontend Architect
+ 
+**Idea Group** *(May 2016 - December 2016 )*  
+**Position:** Full Stack Developer 
