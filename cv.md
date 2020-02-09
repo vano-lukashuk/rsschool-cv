@@ -24,3 +24,8 @@
  
 **Idea Group** *(May 2016 - December 2016 )*  
 **Position:** Full Stack Developer 
+
+## Education
+**Belarusian State University of Informatics and Radioelectronics**  
+**Specialist - Computer science and programming technology _(2011-2016)_**
+
